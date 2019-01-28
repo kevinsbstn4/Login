@@ -1,0 +1,25 @@
+.bdy h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
+.bdy h2{
+    text-align: center;
+}
+.bdy{
+    background-image: url('4.jpeg')
+}
+.satu{
+    font-size: 30px;
+    margin-top: 170px;
+}
+.dua{
+    font-size: 30px;
+}
+.bdy p{
+  font-size: 30px;
+}
+.bdy table{
+    border: 50px;
+}
